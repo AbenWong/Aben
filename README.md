@@ -25,3 +25,6 @@ npm run e2e
 
 ### run all tests
 npm test
+### 图片展示
+首页
+![image](https://user-images.githubusercontent.com/52949416/110089084-a5026800-7dd0-11eb-971d-0af630f942fb.png)
